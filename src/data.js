@@ -21,7 +21,7 @@ export default [
     title: "Bhedaghat",
     location: "Madhya Pradesh",
     googleMapsUrl: "https://maps.app.goo.gl/HtK5kjFgpSdPU4m28",
-    date: "Mar 6, 2022",
+    date: "6 Mar, 2022",
     description:
       "Bhedaghat, along the Narmada River, showcases awe-inspiring marble rocks rising from the water, creating a unique and enchanting natural wonder.",
     imageUrl: "https://images.unsplash.com/photo-1597132441547-a4fcd316da61",
