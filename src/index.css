@@ -17,18 +17,18 @@ nav,
 }
 
 nav {
-  padding: 0.75em;
+  padding: 0.65em;
   margin-bottom: 1em;
   background-color: #0b346e;
   color: #ff757c;
   font-family: "Quicksand", sans-serif;
-  font-size: 2rem;
+  font-size: 1.75rem;
   justify-content: center;
-  gap: 0.5em;
+  gap: 0.4em;
 }
 
 nav img {
-  width: 50px;
+  width: 40px;
 }
 
 .card {
