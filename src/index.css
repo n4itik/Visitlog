@@ -33,9 +33,9 @@ nav img {
 
 .card {
   gap: 2em;
-  max-width: min(800px, 90%);
+  max-width: min(800px, 80%);
   margin: 0 auto;
-  padding: 2.25em;
+  padding: 2.25em 0;
   border-bottom: 1px solid #7db9de;
 }
 
@@ -107,7 +107,7 @@ nav img {
   }
 
   .card-map-url {
-    margin: -0.85em 0 1.25em 1.75em;
+    margin: -0.85em 0 1.5em 1.75em;
     flex-basis: 100%;
   }
 }
