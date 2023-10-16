@@ -1,6 +1,6 @@
 # <img src="public/favicon/android-chrome-512x512.png" width="24"> Visitlog
 
-Visitlog is a travel journal website that allows users to document and share their memorable travel experiences in a visually captivating way.
+Visitlog is a travel journal website for documenting and sharing memorable travel experiences in a visually captivating way.
 
 ### Screenshot
 
